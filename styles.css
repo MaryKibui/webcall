@@ -1,0 +1,15 @@
+#webcam {
+    width: 70%;
+    max-width: 640px;
+}
+
+#startButton {
+    width: 100px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
